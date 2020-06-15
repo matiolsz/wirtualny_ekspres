@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1591626367 source:c:\users\matio\desktop\nowy folder\ekspresmati\ekspres.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Ekspres.h"
+	"ZbiornikNaWode.h"
+	"Kawa.h"
+	"Ziarna.h"
+	"ZbiornikNaFusy.h"
+
+1591687604 c:\users\matio\desktop\nowy folder\ekspresmati\ekspres.h
+	<string>
+	"ZbiornikNaWode.h"
+	"Kawa.h"
+	"Mleko.h"
+	"ZbiornikNaFusy.h"
+	"Ziarna.h"
+	"Urzadzenie.h"
+
+1592223478 c:\users\matio\desktop\nowy folder\ekspresmati\zbiorniknawode.h
+	<string>
+
+1592222168 c:\users\matio\desktop\nowy folder\ekspresmati\kawa.h
+	<string>
+	<iostream>
+
+1591687600 c:\users\matio\desktop\nowy folder\ekspresmati\mleko.h
+	<string>
+
+1591687599 c:\users\matio\desktop\nowy folder\ekspresmati\zbiorniknafusy.h
+	<string>
+	<iostream>
+
+1591687602 c:\users\matio\desktop\nowy folder\ekspresmati\include\ziarna.h
+	<iostream>
+	<string>
+
+1591687603 c:\users\matio\desktop\nowy folder\ekspresmati\include\urzadzenie.h
+	<string>
+
+1591404819 source:c:\users\matio\desktop\nowy folder\ekspresmati\interfejs.cpp
+	"Interfejs.h"
+	<iostream>
+
+1591631899 c:\users\matio\desktop\nowy folder\ekspresmati\interfejs.h
+
+1591375177 source:c:\users\matio\desktop\nowy folder\ekspresmati\kawa.cpp
+	"Kawa.h"
+	<iostream>
+	<string>
+
+1591359190 source:c:\users\matio\desktop\nowy folder\ekspresmati\mleko.cpp
+	"Mleko.h"
+	<string>
+	<iostream>
+
+1591287537 source:c:\users\matio\desktop\nowy folder\ekspresmati\src\urzadzenie.cpp
+	"Urzadzenie.h"
+	<iostream>
+
+1591363869 source:c:\users\matio\desktop\nowy folder\ekspresmati\src\ziarna.cpp
+	"Ziarna.h"
+	<string>
+	<iostream>
+
+1591359190 source:c:\users\matio\desktop\nowy folder\ekspresmati\zbiorniknafusy.cpp
+	"ZbiornikNaFusy.h"
+	<string>
+	<iostream>
+
+1591373817 source:c:\users\matio\desktop\nowy folder\ekspresmati\zbiorniknawode.cpp
+	"ZbiornikNaWode.h"
+	<string>
+	<iostream>
+
+1592222943 source:c:\users\matio\desktop\nowy folder\ekspresmati\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Ekspres.h"
+	"Kawa.h"
+	"Mleko.h"
+	"ZbiornikNaWode.h"
+	"ZbiornikNaFusy.h"
+	"Interfejs.h"
+
